@@ -1,8 +1,8 @@
-#Project Overview
+##Project Overview
 
 This project focuses on building and comparing different Recurrent Neural Network (RNN) architectures. Four models were developed to evaluate their performance in terms of test accuracy and training time. The models include LSTM, GRU, Bidirectional GRU, and Bidirectional LSTM.
 
-Models Overview
+##Models Overview
 
 LSTM Model
 
